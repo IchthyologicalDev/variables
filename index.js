@@ -1,88 +1,68 @@
 /*
-Welcome to the js exercise template! This paragraph should be changed for
-each exercise. It is intended to give some high level instruction about the 
-exercise goal. The rest of this multi-line comment should be included in every
-exercise.
+Welcome to the js variables exercise! On the lines below, you'll get practice creating 
+variables using the "const" and "let" keywords in JavaScript. You should pick appropriate
+data types for your answer. 
 
 Look through this file for requirements that start with //REQUIREMENT N:
 You will add your code on the line or lines that start with //TODO:
 
 EXAMPLE:
-//REQUIREMENT 1: Do Ichthyologists study fish, birds, or mammals?
-//TODO: On the following line, change null to your answer. Make sure that it's a string!
-let ichthyologistFocus = null;
+//REQUIREMENT 1: How many days have you been a developer?
+//TODO: Instantiate a variable, timeAsDev, with your answer. Make sure to use a keyword that allows the value to be updated later!
 
-You would change the previous line so that it says: 
-let ichthyologistFocus = 'fish';
-
-You will occasionally see longer comments (like this one) that will include extra
-instruction, helpful hints, best practices, or other content. 
+If you started 4 days ago, you would change the previous line so that it says: 
+let timeAsDev = 4;
 
 IMPORTANT
 You should have the index.html file open in your browser as you work through this
 exercise. If you aren't sure what this means, you should watch the <INSERT LINK HERE> 
 video before continuing.
 
-I hope that you get hooked on coding!
+If you currently doubt your ability to create variables, I hope this exercise casts that doubt away.
 */
 
-//REQUIREMENT 1: Do Ichthyologists study fish, birds, or mammals?
-//TODO: On the following line, change null to your answer. Make sure that it's a string!
-let ichthyologistFocus = null;
+//REQUIREMENT 1: How many days have you been a developer?
+//TODO: Instantiate a variable, timeAsDev, with your answer. Make sure to use a keyword that allows the value to be updated later!
 
-//REQUIREMENT 2: What is your name?
-//TODO: On the following line, change null to your answer. Make sure that it's a string!
-let developerName = null;
+//REQUIREMENT 2: What is the genus of the Largemouth Bass?
+//TODO: Insantiate a variable, bassGenus, with your answer. (Google it!)
 
-//REQUIREMENT 3: How many oceans are there?
-//TODO: On the following line, change null to your answer. Make sure that it's a number!
-let numberOfOceans = null;
+//REQUIREMENT 3: True or false, you should use the "var" keyword instead of "const" or "let" to create variables.
+//TODO: Instantiate a variable, isVarPreferred, with your answer.
 
-//REQUIREMENT 4: True or false, you are having fun wielding your knowledge of JavaScript data types!
-//TODO: On the following line, change null to your answer. Make sure that it's a boolean!
-let havingFun = null;
+//REQUIREMENT 4: Roughly how many gallons of water are on Earth?
+//TODO: Instantiate a variable, gallonsWaterOnEarth, with your answer. (Google it!)
 
-//REQUIREMENT 5: What is the state fish of Hawaii? (The one that's fun to say!)
-//TODO: On the following line, change null to your answer. Make sure that it's a string!
-let hawaiianStateFish = null;
+//REQUIREMENT 5: Instantiate a variable, variablesThusFar, with the total number of variables you made before this question.
+//TODO: Make sure to use a keyword that allows the value to be updated later!
 
-//REQUIREMENT 6: How many kilometers long is the Congo River?
-//TODO: On the following line, change null to your answer. Make sure that it's a number!
-let congoLength = null;
+//REQUIREMENT 6: How many feet are in a fathom?
+//TODO: Instantiate a variable, feetInFathom, with your answer
 
-//REQUIREMENT 7: True or false, you have caught a fish.
-//TODO: On the following line, change null to your answer. Make sure that it's a boolean!
-let haveCaughtFish = null;
+//REQUIREMENT 7: What is the plural of fish if we're talking about different species?
+//TODO: Instantiate a variable, fishPluralForm, with your answer.
 
-//REQUIREMENT 8: The largest regular number that JavaScript can reliably handle is 9007199254740991. Make a BigInt that's larger!
-//TODO: On the following line, change null to your answer. Make sure that it's a BigInt!
-let bigInteger = null;
+//REQUIREMENT 8: Update timeAsDev to represent how many days you've been a developer at the end of next week.
+//TODO: Reassign timeAsDev with your answer.
 
-//REQUIREMENT 9: True or false, JavaScript is rarely used in large tech companies.
-//TODO: On the following line, change null to your answer. Make sure that it's a boolean!
-let javaScriptIsRarelyUsed = null;
+//REQUIREMENT 9: True or false, instantiating a variable with the let keyword allows you to reassign the value later.
+//TODO: Instantiate a variable, canChangeLet, with your answer.
 
-//REQUIREMENT 10: True or false, you can use the BigInt data type with decimals.
-//TODO: On the following line, change null to your answer. Make sure that it's a boolean!
-let bigIntWorksForDecimals = null;
+//REQUIREMENT 10: What is the default value of a variable in JavaScript?
+//TODO: Instantiate a variable, jsDefaultValue, with your answer.
 
-//REQUIREMENT 11: How would you store the answer to (9007199254740992 + 1) as a BigInt?
-//TODO: On the following line, change null to your answer. Make sure that it's a BigInt!
-let largeNumber = null;
+//REQUIREMENT 11: What's the difference between null and undefined?
+//TODO: Instantiate a variable, nullVsUndefined, with your answer.
 
-//REQUIREMENT 12: How many species of salmon are native to North America?
-//TODO: On the following line, change null to your answer. Make sure that it's a number!
-let totalNaSalmonSpecies = null;
+//REQUIREMENT 12: If someone is signing up for a user account, and leaves a field blank, what value should you assign to it?
+//TODO: Instantiate a variable, userOmitted, with your answer.
 
-//REQUIREMENT 13: What is the longest river in the world?
-//TODO: On the following line, change null to your answer. Make sure that it's a string!
-let longestRiver = null;
+//REQUIREMENT 13: Update variablesThusFar with the new number of variables you've made so far.
+//TODO: Reassign variablesThusFar with your answer. 
 
-//REQUIREMENT 14: True or false, the previous requirements covered all possible JavaScript data types.
-//TODO: On the following line, change null to your answer. Make sure that it's a boolean!
-let seenAllTypes = null;
+//REQUIREMENT 14: True or false, the stonefish gets its name because people use them as stepping stones.
+//TODO: Instantiate a variable, stonefishAreSteps, with your answer.
 
 /*
-You've reached the end of this exercise! If you need more practice with data types, you're in luck.
-You'll use these concepts in every subsequent program you write.
+You've reached the end of this exercise! Keep swimming along!
 */
