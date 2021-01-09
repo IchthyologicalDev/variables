@@ -1,11 +1,11 @@
-# JS TEMPLATE Practice Exercise
-Test out your knowledge of primitive data types in JavaScript! 
+# JS Variables Exercise
+Test out your knowledge of variables in JavaScript! 
 
 ## Prerequisite Knowledge
-- EDIT THIS AS APPROPRIATE
 - Opening an HTML file in your browser
 - Editing text in a text editor
 - JavaScript's Primitive Data Types
+- Instantiating variables using "const" and "let"
 
 ## Usage
 1. Clone (or download) project
