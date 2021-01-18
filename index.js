@@ -62,10 +62,12 @@ const canChangeLet = true;
 let jsDefaultValue;
 
 //REQUIREMENT 11: What's the difference between null and undefined?
+//HINT: Do a search for "JavaScript null vs undefined"
 //TODO: Instantiate a variable, nullVsUndefined, with your answer.
 const nullVsUndefined = 'undefined is the placeholder value that JavaScript assigns. Null is the value that a developer would assign to represent the intentional lack of a value';
 
 //REQUIREMENT 12: If someone is signing up for a user account, and leaves a field blank, what value should you assign to it?
+//HINT: See previous question.
 //TODO: Instantiate a variable, userOmitted, with your answer.
 const userOmitted = null;
 
