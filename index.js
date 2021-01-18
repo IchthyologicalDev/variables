@@ -15,8 +15,8 @@ let timeAsDev = 4;
 
 IMPORTANT
 You should have the index.html file open in your browser as you work through this
-exercise. If you aren't sure what this means, you should watch the <INSERT LINK HERE> 
-video before continuing.
+exercise. If you aren't sure what this means, you should watch the How to Edit Code 
+video: https://youtu.be/vkWDQzl_x3s before continuing.
 
 If you currently doubt your ability to create variables, I hope this exercise casts that doubt away.
 */
@@ -52,9 +52,11 @@ If you currently doubt your ability to create variables, I hope this exercise ca
 //TODO: Instantiate a variable, jsDefaultValue, with your answer.
 
 //REQUIREMENT 11: What's the difference between null and undefined?
+//HINT: Do a search for "JavaScript null vs undefined"
 //TODO: Instantiate a variable, nullVsUndefined, with your answer.
 
 //REQUIREMENT 12: If someone is signing up for a user account, and leaves a field blank, what value should you assign to it?
+//HINT: See previous question.
 //TODO: Instantiate a variable, userOmitted, with your answer.
 
 //REQUIREMENT 13: Update variablesThusFar with the new number of variables you've made so far.
